@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=n2YrGsXJC6Y&t=2287s
 00:04:32 | 01 - Introducción
 00:19:07 | 02 - Características 
 00:25:51 | 03 - Instalación
+            pip install reflex
+            reflex init
+            reflex run
+
 00:50:43 | 04 - Primeros pasos
 00:57:22 | 05 - Fundamentos
 01:10:59 | 06 - Hola mundo
